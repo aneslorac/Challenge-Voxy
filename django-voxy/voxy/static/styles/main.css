@@ -1,0 +1,45 @@
+body {
+
+    background-color: #04364A;
+    font-family: Arial, Helvetica, sans-serif;
+
+    h2 {
+        color: #53a8a3;
+    }
+
+    h3 {
+        color: #64CCC5;
+    }
+
+    h4 {
+        color: #DAFFFB;
+    }
+
+    label {
+        color: #64CCC5;
+    }
+
+    input[type=button], input[type=submit], input[type=reset] {
+        background-color: #64CCC5;
+        border: none;
+        border-radius: 5px;
+        color: #04364A;
+        padding: 16px 32px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+
+    a {
+        color: #64CCC5;
+    }
+
+    label {display:block;}
+    textarea { display:block;}
+
+    .wordcountdiv {
+        padding: 2%;
+    }
+}
+
+
+
